@@ -1,4 +1,3 @@
 Esto es una prueba, luego lo utilizaremos 
-para resober provlemas
+para resober conflicto
 
-Vesión 2.0
